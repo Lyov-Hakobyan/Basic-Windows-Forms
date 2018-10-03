@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.exe.config
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.exe
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.pdb
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.exe
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.pdb
+C:\Users\User\source\repos\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.Form1.resources
